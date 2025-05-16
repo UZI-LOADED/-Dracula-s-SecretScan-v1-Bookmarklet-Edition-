@@ -1,0 +1,23 @@
+ Disclaimer: Use only on systems you own or are authorized to test — the shadows may protect you, but the law does not.
+
+🧙 Dracula's SecretScan v1 (Bookmarklet Edition)
+🦇 What It Does:
+Searches page source & inline scripts
+
+Scans JavaScript files linked in the page
+
+Highlights exposed API keys, tokens, and passwords
+
+Detects known key patterns (e.g., AIza, sk_live_, AKIA, etc.)
+
+Searches for futuristic identifiers like cloud instance IDs, IAM roles, secret AI endpoints, and more
+
+🪄 Setup Instructions:
+Copy the script below.
+
+Create a new bookmark in your browser.
+
+In the URL field, paste the whole script.
+
+Click it on any page to begin scanning!
+
